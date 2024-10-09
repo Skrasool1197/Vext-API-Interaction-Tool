@@ -7,3 +7,7 @@ Vext is transforming the way developers build their large language model (LLM) p
 
 Leveraging the power of large language models trained on vast datasets, Vext empowers developers to create highly customized, accurate, and contextually relevant outputs for a wide range of prompts. With Vext, you gain access to a suite of tools and abstractions that enhance the flexibility and precision of LLM implementations..
 
+
+# Pipeline
+
+![image](https://github.com/user-attachments/assets/e1d2a1b8-71e2-4a4b-90b7-386138174e6a)
