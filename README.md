@@ -16,3 +16,6 @@ Leveraging the power of large language models trained on vast datasets, Vext emp
 - Enter your Vext API key.
 - Input your query related to research papers.
 - Click "Submit Query" to fetch and display the results.
+
+# Explore
+https://help.vextapp.com/en/articles/9113372-how-to-set-up-basic-vector-database-rag 
