@@ -22,4 +22,4 @@ Leveraging the power of large language models trained on vast datasets, Vext emp
 
 [![VEXT_]((https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white))](https://help.vextapp.com/en/articles/9113372-how-to-set-up-basic-vector-database-rag)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://help.vextapp.com/en/articles/9113372-how-to-set-up-basic-vector-database-rag)
+[![VEXT_](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://help.vextapp.com/en/articles/9113372-how-to-set-up-basic-vector-database-rag)
