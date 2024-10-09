@@ -11,3 +11,8 @@ Leveraging the power of large language models trained on vast datasets, Vext emp
 # Pipeline
 
 ![image](https://github.com/user-attachments/assets/e1d2a1b8-71e2-4a4b-90b7-386138174e6a)
+
+# How to Use:
+- Enter your Vext API key.
+- Input your query related to research papers.
+- Click "Submit Query" to fetch and display the results.
