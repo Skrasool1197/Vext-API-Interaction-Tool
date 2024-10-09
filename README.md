@@ -20,5 +20,5 @@ Leveraging the power of large language models trained on vast datasets, Vext emp
 # Explore
  - See more about VEXT
 
- - [VEXT_](https://katherineoelsner.com/)
+[VEXT](https://help.vextapp.com/en/articles/9113372-how-to-set-up-basic-vector-database-rag)
 
