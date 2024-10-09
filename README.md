@@ -18,7 +18,5 @@ Leveraging the power of large language models trained on vast datasets, Vext emp
 - Click "Submit Query" to fetch and display the results.
 
 # Explore
- - See more about VEXT
-
-[VEXT](https://help.vextapp.com/en/articles/9113372-how-to-set-up-basic-vector-database-rag)
+ - See more about VEXT: [VEXT](https://help.vextapp.com/en/articles/9113372-how-to-set-up-basic-vector-database-rag)
 
